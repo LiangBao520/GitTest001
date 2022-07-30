@@ -10,4 +10,7 @@ public class Test2 {
         System.out.println("第二次提交");
         System.out.println("第三次提交");
     }
+    public viod m1(){
+        //这是一个方法
+    }
 }
